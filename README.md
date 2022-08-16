@@ -1,5 +1,9 @@
+<img src="https://www.meshdex.com/wp-content/uploads/2018/07/web.gif">
+
 # 💫 About Me:
--**MERN stack developer**<br>-**I’m currently learning More New Technology**<br>-**I’m currently working on the Marketplace**<br>-**Taifurislamashraf.bd@gamil.com**<br>
+-**MERN stack developer**<br>-**I’m currently learning More New Technology**<br>-**I’m currently working on the Marketplace**<br>-**Taifurislamashraf.bd@gamil.com**
+<img align="right" width="500" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif?compress=1&resize=400x300">
+<br>
 
 
 ## 🌐 Socials:
