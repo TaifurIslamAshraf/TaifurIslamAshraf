@@ -31,45 +31,45 @@
 
 ## ✨ Language & Tools:
 
-<p align="left">
+<p align="left" display="flex">
 
 <!-- Front End -->
 <img src="https://img.shields.io/badge/HTML-282C34?logo=html5&logoColor=E34F26" alt="HTML logo" title="HTML" height="25" />
-&nbsp;
+
 <img src="https://img.shields.io/badge/CSS-282C34?logo=css3&logoColor=1572B6" alt="CSS logo" title="CSS" height="25" />
-&nbsp;
+
 <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" />
 
-&nbsp;
+
 <img src="https://img.shields.io/badge/Tailwind CSS-282C34?logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />
-&nbsp;
+
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
-&nbsp;
+
 <img src="https://img.shields.io/badge/React JS-282C34?logo=react&logoColor=61DAFB" alt="React JS logo" title="React JS" height="25" />
-&nbsp;
+
 <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
 
-&nbsp;
+
 <img src="https://img.shields.io/badge/Axios-282C34?logo=axios&logoColor=5A29E4" alt="Axios logo" title="Axios" height="25" />
 
 <br>
 
 <!-- Back End -->
 <img src="https://img.shields.io/badge/Node JS-282C34?logo=node.js&logoColor=339933" alt="Node JS logo" title="Node JS" height="25" />
-&nbsp;
+
 <img src="https://img.shields.io/badge/Express JS-282C34?logo=express&logoColor=000000" alt="Express JS logo" title="Express JS" height="25" />
-&nbsp;
+
 <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />
 
-&nbsp;
+
 <img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />
-&nbsp;
+
 <img src="https://img.shields.io/badge/Nodemon-282C34?logo=nodemon&logoColor=76D04B" alt="Nodemon logo" title="Nodemon" height="25" />
-&nbsp;
+
 <img src="https://img.shields.io/badge/.ENV-282C34?logo=dotenv&logoColor=ECD53F" alt=".ENV logo" title=".ENV" height="25" />
-&nbsp;
+
 <img src="https://img.shields.io/badge/Heroku-282C34?logo=heroku&logoColor=430098" alt="Heroku logo" title="Heroku" height="25" />
-&nbsp;
+
 <img src="https://img.shields.io/badge/Render-282C34?logo=render&logoColor=46E3B7" alt="Render logo" title="Render" height="25" />
 
 <br>
@@ -95,7 +95,7 @@
 
 ## 🔥 Streak Stats
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=taifurislamashraf&theme=react&show_icons=true" alt="taifurislamashraf"  /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=taifurislamashraf&theme=react&show_icons=true" alt="taifurislamashraf"  /></p>
 <br>
 
 ## Most Used Languages
