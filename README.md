@@ -10,7 +10,7 @@
 
 ## 👓 Here's some fun facts about me:
 
-- ✨ Having explored for 2 + years, I am a full stack developer.
+- ✨ Having explored for 2 + years, I am a forntend developer.
 - ⚡️ I am capable to solve working problems.
 - 💫 Passionate about learning & development to reach the target.
 - 🚀 My next mission is how to become a software engineer.
