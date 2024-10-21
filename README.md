@@ -6,7 +6,7 @@
 [![](https://visitcount.itsvg.in/api?id=TaifurIslamAshraf&icon=4&color=0)](https://visitcount.itsvg.in)
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=40&vCenter=true&height=60&lines=A+Frontend+Developer;A+React+JS+Developer;A+Next+JS+Developer;A+MERN+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=40&vCenter=true&height=60&lines=A+JavaScript+Developer;A+React+JS+Developer;A+Next+JS+Developer;A+MERN+Stack+Developer)](https://git.io/typing-svg)
 
 ## 👓 Here's some fun facts about me:
 
